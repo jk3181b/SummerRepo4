@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 mpg
-# My name is Julie Kettle
+# My name is Julie Kettle.
 # The data source is the mpg data table.
 # This is my coding that generates Boxplots for transmission types
 ggplot(data = mpg) +
